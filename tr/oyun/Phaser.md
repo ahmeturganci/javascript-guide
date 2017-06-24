@@ -7,7 +7,7 @@
 - :books: [Phaser Örnekler](https://www.freetype.org): Hemen hemen her fonksiyon için bir örnek uygulama var.
 
 ## Video:
-- :video_camera: Baştan sona basit bir oyun gerçekleştirildiği bir başlangıç serisi.
+- :video_camera: Baştan sona basit bir oyun gerçekleştirilen bir başlangıç serisi.
 <a href="https://youtu.be/IQs_pze2SsA?list=PL9iYZZWgVwsfd3z_wowmPYNOLOkqTvTRd
 " target="_blank">HTML5 Phaser Game Tutorial</a>
 
