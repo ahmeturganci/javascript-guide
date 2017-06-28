@@ -1,4 +1,4 @@
-# BackboneJS
+# AngularJS
 > AngularJS, Google tarafından desteklenen ve geliştirilen, javascript MVC kütüphanesidir. Tek sayfa uygulamaları geliştirmeye olanak sağlar. Bu tarz diğer kütüphanelerden en önemli farkı çift yönlü olmasıdır. Yani veride olan değişiklik görünüme, görünümde olan değişiklik de veriye uygulanır.
 
 ## Örnekler:
