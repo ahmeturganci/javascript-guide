@@ -1,6 +1,6 @@
 # EmberJS
 >  Ember.js, açık kaynak kodlu web uygulama çatısı. Ember.js, uygulama geliştiricilerine ölçeklenebilir
-tek sayfalık web uygulamaları geliştirmeye olanak tanır.MVC prensiplerine bağlı kalınarak, ü
+tek sayfalık web uygulamaları geliştirmeye olanak tanır.MVC prensiplerine bağlı kalınarak,
 Javascript dili ile yazılan Ember.js, 2011 yılından bu yana geliştirilmektedir.
 
 ## Örnekler:
