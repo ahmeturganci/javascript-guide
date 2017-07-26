@@ -6,10 +6,10 @@ Gün geçtikçe bir yenisinin eklendiği javascript çatılarının hangisini ne
 ### [WEB](/tr/web/)
 
 
-### [MOBİLE](/tr/mobile)
+### [MOBİLE](/tr/mobil/)
 
 
-### [OYUN](/tr/oyun)
+### [OYUN](/tr/oyun/)
 
 
 #### ! Gün geçtikçe büyüyen javascript dünyasında sende bu çatıda var kesinlikle burda olmalı diyorsan desteklerinizi bekliyorum.
